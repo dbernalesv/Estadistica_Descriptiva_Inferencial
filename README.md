@@ -1,2 +1,2 @@
-# Estad-sitca_Descriptiva_Inferencial
+# Estadística_Descriptiva_Inferencial
 Proyectos basados en Estadística para ciencia de datos. 
